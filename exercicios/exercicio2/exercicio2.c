@@ -1,5 +1,5 @@
 /*
-    Objetivo do programa: escrever na tela Ola Mundo
+    Objetivo do programa: Perguntar o nome de quem está usando o programa e sua idade. Faça duas perguntas.
     Data da criacao: 2025-08-28
     Criado por: @programacaomentoria
     Alterado por: @rafaelfischer
