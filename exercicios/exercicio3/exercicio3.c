@@ -25,4 +25,5 @@ int main() {
 	
 	media = (nota1 + nota2 + nota3 + nota4) / 4;
 	printf("A media do aluno %s e: %.2f\n", nome, media);
+	return 0;
 }
